@@ -1,9 +1,9 @@
-import axios from "axios";
+const axios = require('axios');
 
  export default async function ShowData(){
 
 const response= await axios.get('http://localhost:3000/customer/dashboard');
-console.log(response);
+     console.log(response);
 const data =response.data;
 return (<>
 
