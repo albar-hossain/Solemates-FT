@@ -13,11 +13,12 @@ export default
     
     <>
       
+      
       <TitleBar title="Home" />
       <table>
         <tbody>
         <tr>
-          <td><Logo /></td>
+          {/* <td><Logo /></td> */}
           <td></td>
           <td><Navigation/></td>
           </tr>
@@ -43,7 +44,7 @@ export default
         <tbody>
           <tr>
             <td>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem vel, sapiente incidunt aut esse magnam? Beatae illum odio id laboriosam ut, consectetur voluptatem atque, consequuntur quaerat magnam ipsam. Quisquam, vero.
+            <p className="bg-teal-300 text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem vel, sapiente incidunt aut esse magnam? Beatae illum odio id laboriosam ut, consectetur voluptatem atque, consequuntur quaerat magnam ipsam. Quisquam, vero.
       Perspiciatis architecto sapiente neque quaerat modi, laborum, eligendi, iste nulla nostrum adipisci non! Itaque cum magni at reiciendis, dolores optio debitis, laudantium voluptas quaerat qui neque perferendis incidunt enim dolore!
       Quaerat omnis molestias sit adipisci. Numquam modi sit deserunt a nobis eos voluptates fugiat. Rerum ratione quidem eveniet deleniti maiores iusto molestiae, provident nesciunt atque. Est tempora vero eos voluptate?
       Quisquam deleniti doloribus odit libero, minima iusto perferendis tempora nihil error voluptatem harum, alias, obcaecati autem pariatur? Atque debitis voluptas soluta, fugit harum adipisci, mollitia cupiditate officiis, perferendis ut veritatis.
